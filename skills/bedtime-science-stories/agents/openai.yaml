@@ -1,7 +1,7 @@
 interface:
-  display_name: 科普睡前故事
-  short_description: 为9岁以上孩子创作真实、温和、有教育意义的科普故事
-  default_prompt: 使用 $bedtime-science-stories 创作一篇关于萤火虫的科普睡前故事。
+  display_name: 少儿科普介绍与语音
+  short_description: 为9岁以上孩子制作准确易懂的科普介绍及中文语音
+  default_prompt: 使用 $bedtime-science-stories 制作一篇关于萤火虫发光原理的少儿科普介绍，并同时生成MP3语音。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
