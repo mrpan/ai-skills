@@ -1,0 +1,13 @@
+interface:
+  display_name: 科普睡前故事
+  short_description: 为9岁以上孩子创作真实、温和、有教育意义的科普故事
+  default_prompt: 使用 $bedtime-science-stories 创作一篇关于萤火虫的科普睡前故事。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
