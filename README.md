@@ -4,8 +4,8 @@
 
 ## Skills
 
-- [bedtime-science-stories](skills/bedtime-science-stories/)：面向 9 岁及以上儿童的真实、温和、有教育意义的中文科普睡前故事。
+- [bedtime-science-stories](skills/bedtime-science-stories/)：面向 9 岁及以上儿童制作事实准确、容易理解的中文科普介绍，并同步生成 MP3 语音。
 
 ## 目录约定
 
-每个 Skill 独立存放在 `skills/<skill-name>/` 目录中，并包含 `SKILL.md` 及其所需的 `agents/`、`references/`、`assets/` 等资源。
+每个 Skill 独立存放在 `skills/<skill-name>/` 目录中，并包含 `SKILL.md` 及其所需的 `agents/`、`references/`、`scripts/`、`assets/` 等资源。
