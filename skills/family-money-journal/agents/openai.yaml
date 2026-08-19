@@ -1,0 +1,12 @@
+interface:
+  display_name: "家庭资金随手记"
+  short_description: "持久化记录家庭资金和生活费，并生成周月收支总结"
+  default_prompt: "使用 $family-money-journal 配置 Markdown 或飞书多维表格账本，并记录今天的家庭收支。"
+  brand_color: "#2F7D67"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
+  allow_implicit_invocation: true
