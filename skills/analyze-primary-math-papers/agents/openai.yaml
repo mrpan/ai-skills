@@ -1,0 +1,4 @@
+interface:
+  display_name: "小学数学试卷分析"
+  short_description: "核对错题，分析数学亮点与错因，输出分析报告和错题清单"
+  default_prompt: "使用 $analyze-primary-math-papers 分析我上传的小学数学试卷照片，先让我确认识别出的错题，再给出试卷分析报告。"
