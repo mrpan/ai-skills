@@ -1,0 +1,4 @@
+interface:
+  display_name: "小学语文每日轻量检验"
+  short_description: "按当天文章或课文准备三至五分钟检验，附家长判读、提示与隔日回顾"
+  default_prompt: "使用 $prepare-primary-chinese-reading-check，根据我今天提供的阅读文章或课文，准备适合四年级、在每日半小时阅读摘抄内完成的3—5分钟检验，包含两个主问题、家长参考要点和提示，以及一道以后回顾的题。"
